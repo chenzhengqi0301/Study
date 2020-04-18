@@ -24,6 +24,7 @@ public class Maze {
 //        a[4][5]=1;
 //        a[5][3]=1;
 //        a[6][5]=1;
+//        版本测试
     }
 
     public boolean go(int m,int n){
